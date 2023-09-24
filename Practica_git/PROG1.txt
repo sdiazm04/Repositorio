@@ -1,0 +1,10 @@
+1.abeto https://dle.rae.es/abeto
+2.bebida https://dle.rae.es/bebida?m=form
+3.corazon https://dle.rae.es/coraz%C3%B3n
+4.dado https://dle.rae.es/dado?m=form
+5.ejemplo https://dle.rae.es/ejemplo?m=form
+6.fuerza https://dle.rae.es/fuerza?m=form
+7.gallo https://dle.rae.es/gallo?m=form
+8.hielo https://dle.rae.es/hielo?m=form
+9.isla https://dle.rae.es/isla?m=form
+10.julio https://dle.rae.es/julio?m=form
